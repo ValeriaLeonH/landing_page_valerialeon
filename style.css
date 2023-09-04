@@ -110,6 +110,27 @@ header, footer{
   justify-content: center;
   border: 5px solid #3882f6;
   border-radius: 20px;
+  gap: 20px;
+}
+
+.guacamaya-div{
+  background-image: url("assets/guacamaya.jpg");
+  background-repeat: no-repeat;
+}
+
+.focas-div{
+  background-image: ("assets/focas-besandose-agua-fondo.jpg") ;
+  background-repeat: no-repeat;
+}
+
+.panda-div{
+  background-image: ("assets/pandarojo.jpg") ;
+  background-repeat: no-repeat;
+}
+
+.tigre-div{
+  background-image: ("assets/tigre.avif") ;
+  background-repeat: no-repeat;
 }
 
 .guacamayap, .focasp, .pandap, .tigrep{
@@ -206,4 +227,9 @@ footer{
   padding: 1em;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-family: 20px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
 }
