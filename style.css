@@ -114,26 +114,6 @@ header, footer{
   width: 250px;
 }
 
-.guacamaya-div{
-  background-image: url("assets/guacamaya.jpg");
-  background-repeat: no-repeat;
-}
-
-.focas-div{
-  background-image: ("assets/focas-besandose-agua-fondo.jpg") ;
-  background-repeat: no-repeat;
-}
-
-.panda-div{
-  background-image: ("assets/pandarojo.jpg") ;
-  background-repeat: no-repeat;
-}
-
-.tigre-div{
-  background-image: ("assets/tigre.avif") ;
-  background-repeat: no-repeat;
-}
-
 .guacamayap, .focasp, .pandap, .tigrep{
   width: 250px;
   display: flex;
