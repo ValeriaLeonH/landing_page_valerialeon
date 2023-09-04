@@ -104,14 +104,12 @@ header, footer{
 
 .guacamaya, .focas, .panda, .tigre{
   height: 250px;
+  width: 250px;
   display: inline-block;
-  align-items: center;
-  justify-content: center;
   border: 5px solid #3882f6;
   border-radius: 20px;
   gap: 20px;
   object-fit: cover;
-  width: 250px;
 }
 
 .guacamayap, .focasp, .pandap, .tigrep{
