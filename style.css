@@ -207,7 +207,6 @@ header, footer{
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  text-decoration: none;
 }
 
 footer{
@@ -221,4 +220,8 @@ footer{
 *{
   margin: 0;
   padding: 0;
+}
+
+a{
+  text-decoration: none;
 }
