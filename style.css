@@ -75,6 +75,9 @@ header, footer{
   text-align: center;
   width: 8em;
   padding: 0.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .zoo-img{
@@ -191,6 +194,7 @@ header, footer{
   width: 8em;
   border-radius: 5px;
   height: 2em;
+  display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 3.5em;
