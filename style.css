@@ -57,6 +57,7 @@ header, footer{
   color:#f9faf8;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   width: 9em;
+  margin-bottom: 10px;
 }
 
 .content-paragraph{
@@ -64,6 +65,7 @@ header, footer{
   color:#f9faf8;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   width: 24em;
+  margin-bottom: 10px;
 }
 
 .sign-up-button{
@@ -144,6 +146,7 @@ header, footer{
   padding-top: 3em;
   margin-left: 5em;
   margin-right: 5em;
+  gap: 20px;
 }
 
 .name{
@@ -154,6 +157,7 @@ header, footer{
   align-content: center;
   margin-right: 15em;
   padding: 2em;
+  margin-top: 2em;
 }
 
 .blue-box{
@@ -183,7 +187,7 @@ header, footer{
 
 .content-blue-box{
   font-size: 1.3em;
-  margin-block-start: -0.5em;
+  margin-block-start: 0.7em;
 }
 
 .sign-up-button2{
